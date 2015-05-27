@@ -1,0 +1,106 @@
+/*
+    Document   : pacman.css
+    Created on : 2015-03-02 09:39 PM
+    Author     : eacosta97
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+
+div{
+        position: absolute;
+}
+#Wall1 {
+    height: 8px;
+    width: 1000px;
+    position: relative;
+    background-color: blue;
+}
+#Wall2 {
+    height: 500px;
+    width: 8px;
+    position: relative;
+    background-color: blue;
+}
+#Wall3 {
+    height: 8px;
+    width: 1000px;
+    position: relative;
+    background-color: blue;
+}
+#Wall4 {
+    height: 500px;
+    width: 8px;
+    position: relative;
+    background-color: blue;
+    top: -508px;
+    left: 992px;
+}
+#Wall5 {
+    height: 8px;
+    width: 100px;
+    position: relative;
+    background-color: blue;
+    top: -900px;
+    left: 100px;
+}
+#Wall6 {
+    height: 8px;
+    width: 100px;
+    position: relative;
+    background-color: blue;
+    top: -900px;
+    left: 500px;
+}
+#Wall7 {
+    height: 100px;
+    width: 8px;
+    position: relative;
+    background-color: blue;
+    top: -650px;
+    left: 800px;
+}
+#Wall8 {
+    height: 8px;
+    width: 100px;
+    position: relative;
+    background-color: blue;
+    top: -800px;
+    left: 300px;
+}
+#Wall9 {
+    height: 100px;
+    width: 8px;
+    position: relative;
+    background-color: blue;
+    top: -900px;
+    left: 400px;
+}
+#Wall10 {
+    height: 8px;
+    width: 100px;
+    position: relative;
+    background-color: blue;
+    top: -800px;
+    left: 700px;
+}
+#Wall11 {
+    height: 8px;
+    width: 100px;
+    position: relative;
+    background-color: blue;
+    top: -800px;
+    left: 900px;
+}
+#Wall12 {
+    height: 200px;
+    width: 8px;
+    position: relative;
+    background-color: blue;
+    top: -1250px;
+    left: 900px;
+}
